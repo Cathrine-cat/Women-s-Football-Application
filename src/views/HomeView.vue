@@ -53,7 +53,7 @@ export default {
 }
 
 .hero {
-  background: linear-gradient(135deg, #7b2cbf, #c77dff);
+  background: linear-gradient(135deg, #ff2495, #ff7cd8);
   color: white;
   text-align: center;
   padding: 4rem 1rem;
