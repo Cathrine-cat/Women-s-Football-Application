@@ -4,6 +4,8 @@
       <router-link to="/home">Home</router-link>
       <router-link to="/profile">Profile</router-link>
       <router-link to="/chat">Chat</router-link>
+      <router-link to="/shop">Shop</router-link>
+      <router-link to="/news">News</router-link>
     </nav>
   </header>
 
