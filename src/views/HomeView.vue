@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
 <div class="home">
 <!-- Hero Section -->
 <section class="hero">
@@ -69,3 +70,10 @@ font-size: 2.5rem;
 margin-bottom: 1rem;
 }
 </style>
+=======
+  <div class="home-page">
+    <h2>Home</h2>
+    <p>Welcome</p>
+  </div>
+</template>
+>>>>>>> cdf1161912135d7a7e46f423902ebf416674df45

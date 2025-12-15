@@ -160,7 +160,7 @@ const formatEmoji = (text) => {
   margin-bottom: 12px;
   padding: 6px 10px;
   border-radius: 8px;
-  background-color: #ffffff;
+  background-color: #74a7e2;
   color: #222222;
   max-width: 80%;
 }
