@@ -7,6 +7,10 @@
       <button @click="goToNews">Explore Latest News</button>
     </section>
 
+<<<<<<< HEAD
+=======
+    <!-- Features Section -->
+>>>>>>> 2b91968bbabad41afa9ee2e38bea6aeadc6d7473
     <section class="features">
       <div class="feature">
         <h2>📰 Latest News</h2>
@@ -22,6 +26,10 @@
       </div>
     </section>
 
+<<<<<<< HEAD
+=======
+    <!-- Call to Action -->
+>>>>>>> 2b91968bbabad41afa9ee2e38bea6aeadc6d7473
     <section class="cta">
       <h2>Support Women’s Football</h2>
       <p>Discover stories, celebrate players, and be part of the growing community.</p>
@@ -39,8 +47,13 @@ export default {
     },
     goToShop() {
       this.$router.push('/shop')
+<<<<<<< HEAD
     },
   },
+=======
+    }
+  }
+>>>>>>> 2b91968bbabad41afa9ee2e38bea6aeadc6d7473
 }
 </script>
 
@@ -51,7 +64,11 @@ export default {
 }
 
 .hero {
+<<<<<<< HEAD
   background: linear-gradient(135deg, #7b2cbf, #c77dff);
+=======
+  background: linear-gradient(135deg, #ff2495, #ff7cd8);
+>>>>>>> 2b91968bbabad41afa9ee2e38bea6aeadc6d7473
   color: white;
   text-align: center;
   padding: 4rem 1rem;
@@ -60,5 +77,57 @@ export default {
 .hero h1 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
+<<<<<<< HEAD
+=======
+}
+
+.hero p {
+  max-width: 600px;
+  margin: 0 auto 2rem;
+}
+
+.hero button {
+  background: white;
+  color: #7b2cbf;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 3rem 1.5rem;
+  background: #f8f9fa;
+}
+
+.feature {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.feature h2 {
+  margin-bottom: 0.5rem;
+}
+
+.cta {
+  text-align: center;
+  padding: 3rem 1.5rem;
+}
+
+.cta button {
+  background: #7b2cbf;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+>>>>>>> 2b91968bbabad41afa9ee2e38bea6aeadc6d7473
 }
 </style>
