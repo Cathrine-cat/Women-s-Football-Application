@@ -6,6 +6,7 @@
       <router-link to="/chat">Chat</router-link>
       <router-link to="/shop">Shop</router-link>
       <router-link to="/news">News</router-link>
+      <router-link to="/cart">Cart</router-link>
     </nav>
   </header>
 
